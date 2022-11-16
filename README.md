@@ -6,6 +6,6 @@ A two-player limited format that can be played in various card games, such as MT
 
 A custom collection of cards primarily used for drafting. Drafting a cube is similar to drafting booster packs.
 
-## Lcao Development
+## Local Development
 
 1. Open index.html in browser.
