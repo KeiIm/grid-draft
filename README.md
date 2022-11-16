@@ -9,3 +9,4 @@ A custom collection of cards primarily used for drafting. Drafting a cube is sim
 ## Local Development
 
 1. Open index.html in browser.
+2. Have fun.
