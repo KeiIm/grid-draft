@@ -7,6 +7,7 @@
         @click="(cardStore.startOver(), player1Deck.splice(0, player1Deck.length), player2Deck.splice(0, player2Deck.length), deckStore.activePlayer = 1)">Start
         Fresh</button>
     <!-- :disabled="(deckStore.activePlayer === 1)" -->
+    <button @click="(cardsStore.shuffleDeck())">Shuffle</button>
 
     <table>
         <tr>

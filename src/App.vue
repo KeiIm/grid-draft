@@ -5,6 +5,7 @@
     <!-- <RouterLink to="/">Home</RouterLink> -->
   </header>
 
+
   <div class="the-grid">
     <TheGrid />
     <PlayerDecks />
@@ -36,6 +37,9 @@ export default {
   setup() {
     const deckStore = useDeckStore()
     const cardStore = useCardStore()
+    // fetch cards
+    cardStore.getDefaultCards()
+
     return { deckStore, cardStore }
   }
 }
