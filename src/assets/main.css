@@ -1,0 +1,13 @@
+body {
+    background-color: darkgrey;
+}
+
+img .disabled {
+    color: rgba(0, 0, 0, 0.315);
+    background-color: rgba(0, 0, 0, 0.315);
+}
+
+.disabledButton {
+    background-color: #d8d8d8;
+    cursor: not-allowed;
+}
