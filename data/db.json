@@ -1,0 +1,76 @@
+{
+    "cards": [
+        {
+            "code": 30001,
+            "title": "René \"Loup\" Arcemont: Party Animal"
+        },
+        {
+            "code": 30002,
+            "title": "Wildcat Strike"
+        },
+        {
+            "code": 30003,
+            "title": "Carnivore"
+        },
+        {
+            "code": 30004,
+            "title": "Botulus"
+        },
+        {
+            "code": 30005,
+            "title": "Buzzsaw"
+        },
+        {
+            "code": 30006,
+            "title": "Cleaver"
+        },
+        {
+            "code": 30007,
+            "title": "Fermenter"
+        },
+        {
+            "code": 30008,
+            "title": "Leech"
+        },
+        {
+            "code": 30009,
+            "title": "Cookbook"
+        },
+        {
+            "code": 30010,
+            "title": "Zahya Sadeghi: Versatile Smuggler"
+        },
+        {
+            "code": 30011,
+            "title": "Mutual Favor"
+        },
+        {
+            "code": 30012,
+            "title": "Tread Lightly"
+        },
+        {
+            "code": 30013,
+            "title": "Docklands Pass"
+        },
+        {
+            "code": 30014,
+            "title": "Pennyshaver"
+        },
+        {
+            "code": 30015,
+            "title": "Carmen"
+        },
+        {
+            "code": 30016,
+            "title": "Marjanah"
+        },
+        {
+            "code": 30017,
+            "title": "Tranquilizer"
+        },
+        {
+            "code": 30018,
+            "title": "Red Team"
+        }
+    ]
+}
